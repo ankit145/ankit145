@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankit145
+- 👋 Hi, I’m Ankit Sindhu
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on open source code.
